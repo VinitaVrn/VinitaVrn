@@ -1,5 +1,6 @@
 <!-- Github Banner Section-->
-[![Vinita's's GitHub Banner](./assets/GithubBanner.png)](https://vinitavrn.github.io/)
+<h1 align="center">Hi, I am Vinita Veerani 👩‍💻</h1>
+<h3 align="center">🚀 Full Stack Developer | Passionate about Backend Development</h3>
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
