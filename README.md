@@ -5,10 +5,10 @@
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vinita-veerani21/?trk=opento_sprofile_goalscard">
-    <img src="https://img.shields.io/badge/Anukriti Nawani-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Vinita Veerani-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:vinitaveerani@gmail.com">
-    <img src="https://img.shields.io/badge//Anukriti Nawani-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge//Vinita Veerani-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vinitavrn.github.io/">
     <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
