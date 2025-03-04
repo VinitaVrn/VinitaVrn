@@ -29,11 +29,11 @@
 
 - 🌱 Learning *Full-Stack Web Development* from Masai School
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anukriti-Nawani](https://github.com/Anukriti-Nawani)
+- 👨‍💻 All of my projects are available at [https://github.com/VinitaVrn](https://github.com/VinitaVrn)
 
-- 💬 Ask me about *React*
+- 💬 Ask me about *NodeJs*
 
-- 📫 How to reach me *anunwn@gmail.com*
+- 📫 How to reach me *vinitaveerani@gmail.com*
 
 - ⚡ Fun fact *I watch the funny videos often.*
 
