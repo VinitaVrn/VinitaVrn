@@ -1,6 +1,15 @@
 <!-- Github Banner Section-->
 <h1 align="center">Hi, I am Vinita Veerani 👩‍💻</h1>
 <h3 align="center">🚀 Full Stack Developer | Passionate about Backend Development</h3>
+<h3 align="center">A Dynamic Full Stack Web Developer skilled in Node.js,
+                Express, and MongoDB, with a strong foundation in
+                HTML, CSS, and JavaScript for building seamless and
+                scalable web applications. Strong problem-solving
+                abilities, excellent collaboration skills, and a quick
+                learner, eager to explore new technologies like
+                Generative AI. Committed to enhancing software
+                excellence through innovative development
+                practices.</h3>
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
