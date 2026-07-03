@@ -1,15 +1,7 @@
 <!-- Github Banner Section-->
 <h1 align="center">Hi, I am Vinita Veerani 👩‍💻</h1>
-<h3 align="center">🚀 Full Stack Developer | Passionate about Backend Development</h3>
-<h4 align="center">A Dynamic Full Stack Web Developer skilled in Node.js,
-                Express, and MongoDB, with a strong foundation in
-                HTML, CSS, and JavaScript for building seamless and
-                scalable web applications. Strong problem-solving
-                abilities, excellent collaboration skills, and a quick
-                learner, eager to explore new technologies like
-                Generative AI. Committed to enhancing software
-                excellence through innovative development
-                practices.</h4>
+<h3 align="center">🚀 Backend-focused Full Stack Developer | Node.js, TypeScript, PostgreSQL | Building scalable web applications.</h3>
+<h4 align="center">Backend-focused Full Stack Developer with 1.5 years of professional experience building web applications using Node.js, Express.js, TypeScript, React, and PostgreSQL. Experienced in backend development, REST APIs, microservices-based applications, Redis, SQL query optimization, and database-driven applications. Passionate about backend engineering, system design, and building scalable software.</h4>
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
