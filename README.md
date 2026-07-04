@@ -5,18 +5,18 @@
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vinita-veerani21/?trk=opento_sprofile_goalscard">
-    <img src="https://img.shields.io/badge/Vinita Veerani-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:vinitaveerani@gmail.com">
-    <img src="https://img.shields.io/badge//Vinita Veerani-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/vinita-veerani21/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Vinita%20Veerani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+  <a href="mailto:vinniveerani21@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
   <a href="https://vinitavrn.github.io/">
     <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1A8vWoUbpRnu8ezHS0b47kRarYHj8QgyG/view?usp=sharing">
-    <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
-  </a>
+ <a href="https://drive.google.com/file/d/1oIWUJV6MF2dfcdEwx2hpdqMUZnoPAo3T/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+</a>
 </div>
 
 <br> <br>
