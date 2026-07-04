@@ -14,7 +14,7 @@
   <a href="https://vinitavrn.github.io/">
     <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
   </a>
- <a href="https://drive.google.com/file/d/1oIWUJV6MF2dfcdEwx2hpdqMUZnoPAo3T/view?usp=sharing" target="_blank">
+ <a href="https://drive.google.com/file/d/1p9vP-onq8d9rgaYP3BxlawOhGVn-jovy/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
 </a>
 </div>
