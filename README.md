@@ -26,20 +26,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VinitaVrn&label=Profile%20views&color=0e75b6&style=flat" alt="danish4git" /> </p>
 
+- 💼 Backend-focused Full Stack Developer with 1.5 years of industry experience.
 
-- 🔭 I’m currently at Masai School
+- 🚀 Building scalable backend applications using Node.js, TypeScript, Express.js, PostgreSQL, Redis, and Microservices.
 
-- 🌱 Learning *Full-Stack Web Development* from Masai School
+- 🛠️ Experienced in REST APIs, SQL optimization, RBAC, payment gateway integration, and database-driven applications.
 
-- 👨‍💻 All of my projects are available at [https://github.com/VinitaVrn](https://github.com/VinitaVrn)
+- 🌱 Currently exploring System Design, Distributed Systems, and Cloud Technologies.
 
-- 💬 Ask me about *NodeJs*
+- 👨‍💻 Check out my repositories below to see my work.
 
-- 📫 How to reach me *vinitaveerani@gmail.com*
-
-- ⚡ Fun fact *I watch the funny videos often.*
-
-- 🎯 Hobbies :*coding📕 | dancing | Physical fitness👊*
+- 📫 Reach me at: **vinitaveerani@gmail.com**
 
 - ⚡ Fact :*It's never late to get started 🫀:*
 
@@ -54,15 +51,26 @@
 <div>
 
  <!-- [![My Skills](https://skills.thijs.gg/icons?i=react,js,html,css,git,heroku,MongoDb,nodejs,redux)](https://skills.thijs.gg) -->
-<p margin-top="2rem">
+<p align="left">
 
-   <a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&labelColor=black&logo=node.js&logoColor=609857" alt="Node JS"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=2361DAFB" alt="Express"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongoDB&logoColor=white" alt="Mongo DB"/> </a> &nbsp;<a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;<a href="#"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&labelColor=black&logo=heroku&logoColor=white" alt="Heroku"/> </a> &nbsp;<a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=white" alt="Netlify"/> </a> &nbsp;
-  
+<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>&nbsp;
+
+<a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>&nbsp;
+
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>&nbsp;
+
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>&nbsp;
+
+<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>&nbsp;
+
+<a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>&nbsp;
+
+<a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>&nbsp;
+
+<a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/></a>&nbsp;
+
+<a href="#"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"/></a>&nbsp;
+
 </p>
 
 <br /><br />
