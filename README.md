@@ -11,9 +11,9 @@
   <a href="mailto:vinniveerani21@gmail.com">
   <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-  <a href="https://vinitavrn.github.io/">
+  <!-- <a href="https://vinitavrn.github.io/">
     <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
-  </a>
+  </a> -->
  <a href="https://drive.google.com/file/d/1p9vP-onq8d9rgaYP3BxlawOhGVn-jovy/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/View%20Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
 </a>
